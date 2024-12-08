@@ -6,7 +6,7 @@ Copyright belongs to Tri Dao's lab
 https://github.com/Dao-AILab/flash-attention
 
 # Installation
-read ./flash_attention/README.md
+README.md in flash attention repository
 
 # How to run benchmarks of flashattention2
 cd ./flash-attention/benchmarks
